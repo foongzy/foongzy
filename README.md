@@ -9,4 +9,4 @@ Frontend: React\
 Backend: Django, Spring Boot
 
 ## Coding Languages
-Javascript, CSS, HTML, Python, Java, SQL, Excel VBA, Matlab
+JavaScript, CSS, HTML, Python, Java, SQL, Excel VBA, Matlab
