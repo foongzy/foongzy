@@ -6,8 +6,8 @@ I'm Zhi Yu\
 
 ## Technology Stack
 Frontend: React\
-Backend: Django, Spring Boot
-Data: Apache Kafka, Kubernetes, Elasticsearch, Grafana
+Backend: Django, Spring Boot\
+Data: Apache Kafka, Kubernetes, Elasticsearch, Grafana\
 Cloud: AWS
 
 ## Coding Languages
