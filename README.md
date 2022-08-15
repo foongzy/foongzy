@@ -8,7 +8,8 @@ I'm Zhi Yu\
 Frontend: React\
 Backend: Django, Spring Boot\
 Data: Apache Kafka, Kubernetes, Elasticsearch, Grafana\
-Cloud: AWS
+Cloud: AWS\
+DevOps: Terraform
 
 ## Coding Languages
 JavaScript, CSS, HTML, Python, Java, SQL, Excel VBA, Matlab
