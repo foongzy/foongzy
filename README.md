@@ -12,4 +12,4 @@ Cloud: AWS\
 DevOps: Terraform
 
 ## Coding Languages
-JavaScript, CSS, HTML, Python, Java, SQL, Excel VBA, Matlab
+JavaScript, CSS, HTML, Python, Java, SQL, Shell Scripting, Excel VBA, Matlab
