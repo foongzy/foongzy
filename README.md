@@ -5,6 +5,7 @@ I'm Zhi Yu\
 💼 Technology & Innovation | International Graduate | Standard Chartered Bank
 
 ## Technology Stack
+AI/ML: LLM, RAG, Langchain
 Frontend: React\
 Backend: Django, Spring Boot\
 Data: Apache Kafka, Kubernetes, Elasticsearch, Grafana\
