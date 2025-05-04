@@ -2,10 +2,10 @@
 
 I'm Zhi Yu\
 🎓 MEng Aeronautical Engineering | Imperial College London\
-💼 Technology & Innovation | International Graduate | Standard Chartered Bank
+💼 Technology & Innovation | AI Engineer | Standard Chartered Bank
 
 ## Technology Stack
-AI/ML: LLM, RAG, Langchain\
+AI/ML: LLM, RAG, Langchain, Agents\
 Frontend: React\
 Backend: Django, Spring Boot\
 Data: Apache Kafka, Kubernetes, Elasticsearch, Grafana\
